@@ -1,3 +1,6 @@
+#Tablas utilizadas:
+#categoria, compra, empresa, juego, juegojunio, pais, registro_compras, usuario, valoracion
+
 -- MySQL dump 10.13  Distrib 8.0.32, for Win64 (x86_64)
 --
 -- Host: localhost    Database: lifegame
